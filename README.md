@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @erc83
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, Soy Eric Espinoza.
+- 👀 I’m interested in Projects development.
+- 🌱 I’m currently learning Reactjs, mongoDB.
+- 💞️ I’m looking to collaborate on github.com/erc83/
+- 📫 How to reach me espinoza.eric@gmail.com
 
 <!---
 erc83/erc83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
