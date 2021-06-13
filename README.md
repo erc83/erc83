@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Reactjs, mongoDB.
 - 💞️ I’m looking to collaborate on github.com/erc83/
 - 📫 How to reach me espinoza.eric@gmail.com
+- Proyect Free-Lance: www.tortaselenias.cl
+- Portafolio web: https://eric-espinoza-mansilla.netlify.app
+
 
 <!---
 erc83/erc83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
