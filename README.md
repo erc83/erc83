@@ -1,10 +1,10 @@
-- 👋 Hola, Soy Eric Espinoza.
+- 👋 Hello, I’m Eric Espinoza.
 - 👀 I’m interested in Projects development.
 - 🌱 I’m currently learning Reactjs, mongoDB.
 - 💞️ I’m looking to collaborate on github.com/erc83/
 - 📫 How to reach me espinoza.eric@gmail.com
 - Proyect Free-Lance: www.tortaselenias.cl
-- Portafolio web: https://eric-espinoza-mansilla.netlify.app
+- Web Portfolio: https://eric-espinoza-mansilla.netlify.app
 
 
 <!---
