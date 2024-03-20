@@ -5,6 +5,7 @@
 - 📫 How to reach me espinoza.eric@gmail.com
 - Proyect Free-Lance: www.tortaselenias.cl
 - Web Portfolio: https://eric-espinoza-mansilla.netlify.app
+- Web app pokeapi with Nextjs: https://pokemon-nextjs-eric-espinoza.vercel.app/
 
 
 <!---
